@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:tjallingt/react-youtube.git",
+    "url": "git@github.com:yoavsunity/react-youtube.git",
     "directory": "packages/react-youtube"
   },
   "keywords": [
@@ -23,9 +23,9 @@
   "author": "Tjalling Tolle <tjallingt@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjallingt/react-youtube/issues"
+    "url": "https://github.com/yoavsunity/react-youtube/issues"
   },
-  "homepage": "https://github.com/tjallingt/react-youtube",
+  "homepage": "https://github.com/yoavsunity/react-youtube",
   "dependencies": {
     "fast-deep-equal": "3.1.3",
     "prop-types": "15.8.1",
